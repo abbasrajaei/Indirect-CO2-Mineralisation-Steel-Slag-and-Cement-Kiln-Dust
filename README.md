@@ -1,6 +1,6 @@
-#  Carbon Sequestration in Steel and Cement Industries Using Indirect Mineral Carbonation (IMC) Process
+# Indirect CO₂ Mineralisation Using Steel Slag and Cement Kiln Dust
 
-### Experimental process development, selective calcium recovery, pH-swing purification, and CaCO₃ production
+*Selective calcium extraction, pH-swing purification, and calcium carbonate recovery*
 
 ![Schematic diagram of the indirect CO₂ mineralisation process](process-flow.jpg)
 
